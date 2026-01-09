@@ -56,7 +56,7 @@ opponents, and time.
 .
 ├── data/
 │   └── magnus_carlsen_games.csv
-├── Magnus_Carlsen_Analysis.ipynb
-├── README.md
+├── .gitignore
 ├── LICENSE
-└── .gitignore
+├── Magnus_Carlsen_Analysis.ipynb
+└── README.md
