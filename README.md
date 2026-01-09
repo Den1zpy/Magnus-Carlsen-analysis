@@ -49,11 +49,14 @@ opponents, and time.
 
 ---
 
+
 ## 📁 Repository Structure
 
 ```text
-magnus-carlsen-analysis/
-│
-├── Magnus_Carlsen_Data_Analysis.ipynb
-├── magnus_carlsen_games.csv
-└── README.md
+.
+├── data/
+│   └── magnus_carlsen_games.csv
+├── Magnus_Carlsen_Analysis.ipynb
+├── README.md
+├── LICENSE
+└── .gitignore
